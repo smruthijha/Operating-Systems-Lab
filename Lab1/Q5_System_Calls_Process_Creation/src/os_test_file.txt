@@ -1,0 +1,2 @@
+This is a controlled OS Lab test file.
+File creation, writing and reading successful.
